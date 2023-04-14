@@ -1,2 +1,3 @@
 # -LYNX-GAME-WORLD-
-GAME
+index.html
+
